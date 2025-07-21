@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Daria 👋
+### I'm learning Java!
 <!--
 **Ackermandr/Ackermandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
